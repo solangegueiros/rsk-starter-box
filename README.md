@@ -117,11 +117,13 @@ And the `migrate output` should be similar to:
 
 Our box also comes with the file `TestSimpleStorage.js` for testing the smart contract. You can check it out in the `test` folder.
 
+Run this command in the development console:
+
 ```shell
 test
 ```
 
-This test output should be similar to:
+This `test output` should be similar to:
 
 ![truffle test](/images/rsk-starter-box-04.png)
 
